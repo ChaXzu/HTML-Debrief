@@ -9,7 +9,7 @@
 
     </body>
     <footer>
-        <a src="https://www.google.com/">Click here to search google!</a>
+        <a href="https://www.google.com/">Click here to search google!</a>
         <table>
             <th></th>
             <th></th>
